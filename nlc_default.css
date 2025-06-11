@@ -1,0 +1,13 @@
+html, body, iframe, table { width: 100%; height: 100%; }
+html, body, iframe, table { padding: 0px; margin: 0px; }
+html, body, iframe, table { border-width: 0px; border-style: solid; }
+html    { border-color: purple; }
+body    { border-color: orange; background-color: black; color: white; }
+table   { border-color: yellow; border-spacing: 0px; } 
+tr      { border-color: green; }
+td      { border-color: pink; }
+iframe  { border-color: blue; }
+
+a           { font-weight: bolder; color: #B0D0E0; }
+body, table { font-weight: bold; font-family: "Disket Mono", Consolas, "Lucida Console", Monaco, Menlo, "SFMono-Regular", "ui-monospace", "Liberation Mono", "Courier New", monospace; }
+canvas      { width: 100%; height: 100%; display: block; }
